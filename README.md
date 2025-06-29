@@ -57,3 +57,15 @@ The Airbnb-like Figma file is **high-fidelity** because it includes:
 1. No installations needed  
 2. Direct feedback via comments  
 3. Auto-layout for responsive designs
+
+
+## Benefits of Wireframing in Software Development
+
+1. **Clarifies Requirements**  
+   - *Example*: Wireframes expose unclear functionality early (e.g., "Does the booking form need guest count input?").
+
+2. **Saves Development Time**  
+   - *Example*: Fixing a misplaced button in a wireframe avoids costly code changes later.
+
+3. **Improves Team Alignment**  
+   - *Example*: Developers and designers agree on layout before coding begins.
