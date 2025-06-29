@@ -25,3 +25,21 @@ Wireframing is the process of creating simplified visual guides that represent t
 4. **Functionality**  
    Indicates interactive elements (buttons, forms, etc.).  
    *Example: A search bar wireframe shows its placement and expected behavior.*
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+- **Purpose**: Early-stage layout planning  
+- **Traits**: Placeholder text, boxes for images, no colors  
+- **Tools**: Pen/paper, Figma (basic shapes)
+
+### High-Fidelity Wireframes  
+- **Purpose**: Client presentations, developer handoff  
+- **Traits**: Real content, colors, interactive elements  
+- **Tools**: Figma (detailed components)
+
+### Wireframe Type Identification  
+The Airbnb-like Figma file is **high-fidelity** because it includes:  
+- Accurate spacing and typography  
+- Branded colors and imagery  
+- Functional prototype elements (e.g., clickable buttons)
