@@ -43,3 +43,17 @@ The Airbnb-like Figma file is **high-fidelity** because it includes:
 - Accurate spacing and typography  
 - Branded colors and imagery  
 - Functional prototype elements (e.g., clickable buttons)
+
+
+## Wireframing Tools
+
+### Figma (Recommended)
+- **Collaboration**: Real-time multi-user editing  
+- **Speed**: Drag-and-drop components for rapid wireframing  
+- **Fidelity**: Scales from low-fi (boxes/placeholders) to high-fi (interactive prototypes)  
+- **Access**: Free plan available, works in browsers  
+
+*Why Figma for wireframing?*  
+1. No installations needed  
+2. Direct feedback via comments  
+3. Auto-layout for responsive designs
