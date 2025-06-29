@@ -69,3 +69,23 @@ The Airbnb-like Figma file is **high-fidelity** because it includes:
 
 3. **Improves Team Alignment**  
    - *Example*: Developers and designers agree on layout before coding begins.
+  
+## Wireframing in Practice
+
+**Scenario**: A travel booking app initially designed the checkout flow with payment details *before* trip selection in wireframes.  
+
+**Identified Issues**:  
+1. Users abandoned the flow when asked for payment upfront  
+2. Trip summary wasn't visible during payment  
+
+**Wireframe Solutions**:  
+- Reordered steps to show trip details first  
+- Added a persistent summary sidebar  
+- Included an "Edit trip" button at payment stage  
+
+**Impact**:  
+- 30% reduction in checkout abandonment  
+- Fewer support tickets about accidental bookings  
+
+**Conclusion**:  
+Wireframing surfaces UX flaws early, ensuring final products align with user expectations through iterative, low-cost adjustments.
