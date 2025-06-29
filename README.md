@@ -7,3 +7,21 @@ Wireframing is the process of creating simplified visual guides that represent t
 1. **Clarifies Structure**: Defines page hierarchy and element placement
 2. **Saves Time**: Identifies usability issues early in the design process
 3. **Facilitates Feedback**: Provides stakeholders with a clear, focused view of functionality
+
+## Key Elements of Wireframing
+
+1. **Layout Structure**  
+   Defines the arrangement of components (e.g., header, footer, sidebar).  
+   *Example: A 3-column layout for an e-commerce site prioritizes product visibility.*
+
+2. **Navigation**  
+   Shows how users move through the interface.  
+   *Example: A sticky top menu bar ensures constant access to key sections.*
+
+3. **Content Placement**  
+   Organizes text, images, and media.  
+   *Example: Hero section at the top immediately communicates the app's purpose.*
+
+4. **Functionality**  
+   Indicates interactive elements (buttons, forms, etc.).  
+   *Example: A search bar wireframe shows its placement and expected behavior.*
